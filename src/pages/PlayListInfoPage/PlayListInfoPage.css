@@ -1,0 +1,23 @@
+.playListsInfoPage {
+	color: #3fdfdf;
+}
+
+.playListsInfoPage_color2 {
+	color: darkcyan;
+}
+
+
+
+.playLists_title {
+	margin: 0;
+}
+
+.playLists {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.playLists_item {
+	margin: 0;
+}
