@@ -36,6 +36,9 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/Rrom-Ka/PlayListUsers.git
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/Rrom-Ka/PlayListUsers.git
 2. Перейдите в папку проекта:
    ```bash
    cd react-routing-project
@@ -45,6 +48,7 @@
 4. Запустите сервер для разработки:
    ```bash
    npm run dev
+
 
 
 
