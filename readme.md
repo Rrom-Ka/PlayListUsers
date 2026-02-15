@@ -37,10 +37,13 @@
    ```bash
    git clone https://github.com/Rrom-Ka/PlayListUsers.git
 2. Перейдите в папку проекта:
+   ```bash
    cd react-routing-project
-4. Установите зависимости:
+3. Установите зависимости:
+   ```bash
    npm install
-5. Запустите сервер для разработки:
+4. Запустите сервер для разработки:
+   ```bash
    npm run dev
 
 
